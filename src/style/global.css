@@ -86,7 +86,7 @@ p{
     width: 905px;
     height: 810px;
     z-index: 100;
-    background: rgba(255, 255, 255, 0); /* ou transparente */
+    background: rgba(255, 255, 255, 0);
 }
 
 .figuras{
